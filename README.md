@@ -114,4 +114,4 @@ Presented at CIMCIA 2025, UNAM.
 
 **Ricardo González Muñoz**  
 LIA Student — UAEMéx Centro Universitario Atlacomulco  
-[LinkedIn](https://linkedin.com/in/tu-perfil) · rgonzalezm015@alumno.uaemex.mx
+[LinkedIn](https://linkedin.com/in/ricardogonzz/) · rgonzalezm015@alumno.uaemex.mx
