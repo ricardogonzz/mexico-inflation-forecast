@@ -3,7 +3,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.11-orange?logo=tensorflow)](https://tensorflow.org)
-![Published](https://img.shields.io/badge/Published-CIMCIA%202025%20UNAM-green)
+[![Published](https://img.shields.io/badge/Published-CIMCIA%202025%20UNAM-green)](https://virtual.cuautitlan.unam.mx/intar/memoriascimcia/wp-content/uploads/sites/20/2025/12/132-El-Futuro-del-Poder-Adquisitivo-en-Mexico.pdf)
 
 > **Paper:** *"El Futuro del Poder Adquisitivo en México: Proyección del IPC y la Canasta Básica hacia 2030 mediante Redes Neuronales Recurrentes"*  
 > Presented and approved at **CIMCIA 2025 — UNAM International Congress**  
